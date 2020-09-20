@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 # Now
 
 **安全研究员**
-- 关注二进制漏洞分析，利用与挖掘，偶尔加下IPS规则
+- 关注二进制漏洞，偶尔加下IPS规则
 - 自己继续瞎几把研究。。。
 
 **杂货店**
