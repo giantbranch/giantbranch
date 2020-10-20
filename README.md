@@ -16,10 +16,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Now
+# About me
 
 **安全研究员**
-- 关注二进制漏洞，偶尔加下IPS规则
+- 二进制漏洞为主，偶尔加下IPS规则
 - 自己继续瞎几把研究。。。
 
 **杂货店**
