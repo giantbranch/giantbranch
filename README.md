@@ -31,6 +31,11 @@ Here are some ideas to get you started:
 **最近博客**
 
 <!-- BLOG-POST-LIST:START -->
+- [ClusterFuzz的bot源码(fuzz engine的选择与调度之libfuzzer)阅读](https://www.giantbranch.cn/2021/01/25/ClusterFuzz%E7%9A%84bot%E6%BA%90%E7%A0%81(fuzz%20engine%E7%9A%84%E9%80%89%E6%8B%A9%E4%B8%8E%E8%B0%83%E5%BA%A6%E4%B9%8Blibfuzzer)%E9%98%85%E8%AF%BB/)
+- [winafl编译与测试](https://www.giantbranch.cn/2020/12/25/winafl%E7%BC%96%E8%AF%91%E4%B8%8E%E6%B5%8B%E8%AF%95/)
+- [通过编译器转换(llvm pass)规避模糊测试的一些障碍](https://www.giantbranch.cn/2020/09/08/%E9%80%9A%E8%BF%87%E7%BC%96%E8%AF%91%E5%99%A8%E8%BD%AC%E6%8D%A2(llvm%20pass)%E8%A7%84%E9%81%BF%E6%A8%A1%E7%B3%8A%E6%B5%8B%E8%AF%95%E7%9A%84%E4%B8%80%E4%BA%9B%E9%9A%9C%E7%A2%8D/)
+- [使用afl来fuzz libtiff](https://www.giantbranch.cn/2020/08/25/%E4%BD%BF%E7%94%A8afl%E6%9D%A5fuzz%20libtiff/)
+- [冰蝎 Behinder_v3.0 Beta 3 重点更新简析](https://www.giantbranch.cn/2020/08/21/%E5%86%B0%E8%9D%8E%20Behinder_v3.0%20Beta%203%20%E9%87%8D%E7%82%B9%E6%9B%B4%E6%96%B0%E7%AE%80%E6%9E%90/)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
