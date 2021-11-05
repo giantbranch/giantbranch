@@ -31,11 +31,11 @@ Here are some ideas to get you started:
 **最近博客**
 
 <!-- BLOG-POST-LIST:START -->
+- [使用go-fuzz进行简单的fuzzing实践](https://www.giantbranch.cn/2021/11/02/%E4%BD%BF%E7%94%A8go-fuzz%E8%BF%9B%E8%A1%8C%E7%AE%80%E5%8D%95%E7%9A%84fuzzing%E5%AE%9E%E8%B7%B5/)
 - [afl源码阅读之afl-showmap](https://www.giantbranch.cn/2021/08/27/afl%E6%BA%90%E7%A0%81%E9%98%85%E8%AF%BB%E4%B9%8Bafl-showmap/)
 - [libdislocator原理及afl++的更新](https://www.giantbranch.cn/2021/07/09/libdislocator%E5%8E%9F%E7%90%86%E5%8F%8Aafl++%E7%9A%84%E6%9B%B4%E6%96%B0/)
 - [syzkaller的安装与运行](https://www.giantbranch.cn/2021/06/25/syzkaller%E7%9A%84%E5%AE%89%E8%A3%85%E4%B8%8E%E8%BF%90%E8%A1%8C/)
 - [ClusterFuzz的bot源码(fuzz engine的选择与调度之libfuzzer)阅读](https://www.giantbranch.cn/2021/01/25/ClusterFuzz%E7%9A%84bot%E6%BA%90%E7%A0%81(fuzz%20engine%E7%9A%84%E9%80%89%E6%8B%A9%E4%B8%8E%E8%B0%83%E5%BA%A6%E4%B9%8Blibfuzzer)%E9%98%85%E8%AF%BB/)
-- [winafl编译与测试](https://www.giantbranch.cn/2020/12/25/winafl%E7%BC%96%E8%AF%91%E4%B8%8E%E6%B5%8B%E8%AF%95/)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
