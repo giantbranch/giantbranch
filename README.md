@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 - [afl源码阅读之afl-showmap](https://www.giantbranch.cn/2021/08/27/afl%E6%BA%90%E7%A0%81%E9%98%85%E8%AF%BB%E4%B9%8Bafl-showmap/)
 - [libdislocator原理及afl++的更新](https://www.giantbranch.cn/2021/07/09/libdislocator%E5%8E%9F%E7%90%86%E5%8F%8Aafl++%E7%9A%84%E6%9B%B4%E6%96%B0/)
 - [syzkaller的安装与运行](https://www.giantbranch.cn/2021/06/25/syzkaller%E7%9A%84%E5%AE%89%E8%A3%85%E4%B8%8E%E8%BF%90%E8%A1%8C/)
-- [ClusterFuzz的bot源码(fuzz engine的选择与调度之libfuzzer)阅读](https://www.giantbranch.cn/2021/01/25/ClusterFuzz%E7%9A%84bot%E6%BA%90%E7%A0%81(fuzz%20engine%E7%9A%84%E9%80%89%E6%8B%A9%E4%B8%8E%E8%B0%83%E5%BA%A6%E4%B9%8Blibfuzzer)%E9%98%85%E8%AF%BB/)
+- [ClusterFuzz的bot源码&lpar;fuzz engine的选择与调度之libfuzzer&rpar;阅读](https://www.giantbranch.cn/2021/01/25/ClusterFuzz%E7%9A%84bot%E6%BA%90%E7%A0%81(fuzz%20engine%E7%9A%84%E9%80%89%E6%8B%A9%E4%B8%8E%E8%B0%83%E5%BA%A6%E4%B9%8Blibfuzzer)%E9%98%85%E8%AF%BB/)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
