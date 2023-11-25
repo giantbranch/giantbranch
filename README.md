@@ -31,11 +31,11 @@ Here are some ideas to get you started:
 **最近博客**
 
 <!-- BLOG-POST-LIST:START -->
+- [Xvfb的使用与vnc连接](https://www.giantbranch.cn/2023/11/23/Xvfb%E7%9A%84%E4%BD%BF%E7%94%A8%E4%B8%8Evnc%E8%BF%9E%E6%8E%A5/)
+- [wazuh文档学习：搭建实践](https://www.giantbranch.cn/2023/11/20/wazuh%E6%96%87%E6%A1%A3%E5%AD%A6%E4%B9%A0%EF%BC%9A%E6%90%AD%E5%BB%BA%E5%AE%9E%E8%B7%B5/)
 - [OSSEC文档阅读学习实践](https://www.giantbranch.cn/2023/11/18/OSSEC%E6%96%87%E6%A1%A3%E9%98%85%E8%AF%BB%E5%AD%A6%E4%B9%A0%E5%AE%9E%E8%B7%B5/)
 - [译-绕过 403](https://www.giantbranch.cn/2023/11/16/%E8%AF%91-%E7%BB%95%E8%BF%87%20403/)
 - [试用Kong](https://www.giantbranch.cn/2023/10/29/%E8%AF%95%E7%94%A8Kong/)
-- [Ubuntu安装osquery试用](https://www.giantbranch.cn/2023/10/15/Ubuntu%E5%AE%89%E8%A3%85osquery%E8%AF%95%E7%94%A8/)
-- [应用实时防护（RASP）](https://www.giantbranch.cn/2023/10/11/%E5%BA%94%E7%94%A8%E5%AE%9E%E6%97%B6%E9%98%B2%E6%8A%A4%EF%BC%88RASP%EF%BC%89/)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
